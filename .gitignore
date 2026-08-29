@@ -12,4 +12,4 @@ __pycache__/
 vectorstore/
 
 # VS Code settings
-.vscode/
+.vscode/*.pdf 
