@@ -1,15 +1,22 @@
-# Python virtual environment
+#### 
+# Local datasets
+data/
+
+# Virtual environment
 .venv/
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Environment variables / secrets
+# Environment variables
 .env
 
-# Generated vector database
+# Generated vector store
 vectorstore/
 
-# VS Code settings
-.vscode/*.pdf 
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
